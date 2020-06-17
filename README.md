@@ -7,6 +7,11 @@
 
 This App allows the user to input a note that saves even if the page is refreshed. Also the user can delete a note if they see fit. 
 
+## LINK
+
+https://gentle-island-19424.herokuapp.com/
+
+
 ## GIF of working App
 
 ![NOTETAKER](./note-taker.gif)
